@@ -98,6 +98,6 @@ Modern browsers and IE11.
 
 Any type of contribution is welcome, here are some examples of how you may contribute to this project:
 
-- Use 302 财务管理系统 in your daily work.
+- Use Ant Design Pro in your daily work.
 - Submit [issues](http://github.com/ant-design/ant-design-pro/issues) to report bugs or ask questions.
 - Propose [pull requests](http://github.com/ant-design/ant-design-pro/pulls) to improve our code.
